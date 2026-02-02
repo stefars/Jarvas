@@ -1,5 +1,0 @@
-USER: Test Stefan
-AGE: 26
-ROLE: Worker
-SPECIALIZATION: Computer Science
-HOBBY: Football, Gaming, Singing
