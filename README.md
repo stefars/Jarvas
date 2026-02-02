@@ -53,7 +53,7 @@ Jarvas operates using a **Supervisor-Worker** architecture:
 
 ---
 
-## 📚 RAG System (Knowledge Base)
+## RAG System (Knowledge Base)
 Jarvas can learn from your local documentation using a Retrieval-Augmented Generation (RAG) system.
 
 * **Place Files:** Drop `.txt` files into `/Jarvas_test/Documents/Info`.
