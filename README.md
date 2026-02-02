@@ -1,5 +1,3 @@
-# Jarvas
-
 # Jarvas: Personal Forensics Agent
 
 **Jarvas** is an autonomous multi-agent system designed to assist in solving digital forensics CTFs (Capture The Flag). By leveraging a hierarchical agent structure, Jarvas can analyze tasks, execute Linux-based commands, and perform RAG-based information retrieval.
@@ -33,11 +31,7 @@ Jarvas operates using a **Supervisor-Worker** architecture:
 
 ##  Installation
 
-1.  **Clone the Repository:**
-    ```bash
-    git clone [https://github.com/your-repo/Jarvas.git](https://github.com/your-repo/Jarvas.git)
-    cd Jarvas/Jarvas_test
-    ```
+1.  **Clone the Repository**
 
 2.  **Install Dependencies:**
     ```bash
