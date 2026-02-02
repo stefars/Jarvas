@@ -24,7 +24,7 @@ Jarvas operates using a **Supervisor-Worker** architecture:
 
 ##  Specifications & Requirements
 * **OS:** Linux (Tested on Ubuntu). The agent utilizes native Linux commands.
-* **Environment:** Python 3.10+
+* **Environment:** Python 3.12+
 * **Hardware:** Local embedding support via Ollama.
 
 ---
