@@ -63,7 +63,7 @@ Jarvas can learn from your local documentation using a Retrieval-Augmented Gener
 
 
 ## Usage
-Once everything is completed, and the .env is filled, run `main.py`, then beggin talking with the agent after `>` appears!
+Once everything is completed, and the .env is filled, run `main.py`, then begin talking with the agent after `>` appears!
 The logs levels can be changed from `main.py` currently. Currently they are set on INFO.
 
 
